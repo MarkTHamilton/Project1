@@ -214,7 +214,7 @@ public class BetterFrame {
 			if(coffeeButton.isSelected()) {
 				price+=3;
 			}
-			JOptionPane.showMessageDialog(null, "Ponderosa\nYour total is $" + String.format("%.2f", price)+"\nThank you for your order!");
+			JOptionPane.showMessageDialog(null, "Ponderosa\nYour total is $" + String.format("%.2f", price)+"\nThank you for your order! Have a nice day!");
 					
 		}
 	}
